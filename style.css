@@ -1,0 +1,82 @@
+#kepegy {
+    margin-top: 80px;
+    margin-left: 350px;
+    width: 600px;
+    height: 400px;
+}
+
+#leiras {
+    width: 600px;
+    height: 100px;
+    background: black;
+    position: relative;
+    right: -350px;
+    top: -100px;
+    opacity: 0.8;
+}
+
+#szoveg {
+    color: white;
+}
+
+#alszoveg   {
+    color: white;
+    position: relative;
+    top: -10px;
+}
+
+#nyilakegy {
+    position: relative;
+    top: -330px;
+    right: -300px;
+}
+
+#nyilaketto {
+    transform: rotate(0.5turn);
+    position: relative;
+    right: -960px;
+    top: -330px;
+}
+
+main {
+    background: lightgrey;
+}
+
+#kiskepek {
+    width: 1100px;
+    height: 100px;
+    position: relative;
+    bottom: -607px;
+    right: -150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.kicsik {
+    width: 150px;
+    height: 100px;
+}
+
+#madar:hover {
+    border: black solid 3px;
+}
+
+#szarvas:hover {
+    border: black solid 3px;
+}
+
+#flamingo:hover {
+    border: black solid 3px;
+}
+
+#rinocerosz:hover {
+    border: black solid 3px;
+}
+
+#macska:hover {
+    border: black solid 3px;
+}
+
+#jacht:hover {
+    border: black solid 3px;
+}
